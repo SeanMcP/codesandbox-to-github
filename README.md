@@ -1,3 +1,3 @@
-# Codesandbox to GitHub
+# CodeSandbox ➡️ GitHub
 
-This is a test of [Codesandbox](https://codesandbox.io)'s GitHub integration.
+This is a test of [CodeSandbox](https://codesandbox.io)'s GitHub integration.
